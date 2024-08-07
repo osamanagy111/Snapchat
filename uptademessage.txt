@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v2.0",
+    "update_version": "v3.0",
     "com.snapchat.android": "https://www.mjwhats.com/2024/05/snapchat-gold-plus.html",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 2.0</p>

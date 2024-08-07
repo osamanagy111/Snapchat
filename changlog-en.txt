@@ -1,6 +1,6 @@
-Version 2.60. Changelog:
+Version 13.96.0.42. Changelog:
 
-> Base Update 12.54.0.67
+> Base Update 13.96.0.42
 > Streak Expiry details
 > See the remaining time for the streak to expire exactly
 > Custom App Icon

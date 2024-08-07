@@ -1,4 +1,4 @@
-Version 1.60. Changelog:
+Version 2.60. Changelog:
 
 > Base Update 12.54.0.67
 > Streak Expiry details

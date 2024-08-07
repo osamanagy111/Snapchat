@@ -1,4 +1,4 @@
-Version 13.96.0.42. Changelog:
+Version 3.60. Changelog:
 
 > Base Update 13.96.0.42
 > Streak Expiry details

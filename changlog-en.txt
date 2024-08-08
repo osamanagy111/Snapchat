@@ -1,4 +1,4 @@
-Version 2.10. Changelog:
+Version 10.10. Changelog:
 
 > Base Update 13.96.0.42
 > Streak Expiry details

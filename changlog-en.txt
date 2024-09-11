@@ -1,14 +1,8 @@
-Version 10.10. Changelog:
+Version 2.20. Changelog:
 
-> Base Update 13.96.0.42
-> Streak Expiry details
-> See the remaining time for the streak to expire exactly
-> Custom App Icon
-> You can change Snap icon look on the home screen
-> 100% Full Dark Mode option (App Appearance)
-> Show confirmation after saving snap successfully
-> Fixed Download option for Snap/Story/Discover
-> Fixed Logout/Login problem
-> Fix problem with Google Play Services on some devices
-> Bugs Fixed
-> Lots of bug fixes in this update
+What's new in GoldSC 2.20
+- 🔖 Base Update 13.5.0.41
+- 🔥 Enabled Custom Ringtone in +
+- 🔥 Enabled Lightening Snaps (0.1 second, 0.5 second snaps)
+- 💥 Move the night mode option to Plus features
+- 🛠 Fixed Minor bugs
